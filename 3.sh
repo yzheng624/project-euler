@@ -1,3 +1,3 @@
 #!/bin/bash
-# This is a very simple example
+# Find the bigest one
 factor 600851475143
